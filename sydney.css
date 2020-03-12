@@ -1,0 +1,82 @@
+header, section, footer, aside, nav, article, figure, figcaption {
+				display: block;}
+		body {
+				color: #666666;
+				background-color: #A9D0F5;
+				background-position: center;
+				font-family: Georgia, Times, serif;
+				line-height: 1.4em;
+				margin: 0%;}
+		
+				.page{
+				padding: 1%;
+				width: 70%;
+				margin: 3% auto 3% auto;
+				border: 0 solid #ffffff;		
+					background-color: #ffffff;}
+
+        nav {
+				clear: both;
+				color: #000000;
+				background-color: #A9D0F5;
+				height: 3%;}
+				nav ul {
+				margin: 0%;
+				padding: 1.5% 0% 0% 4%;}
+			nav li {
+				display: inline;
+				margin-right: 10%;}
+			nav li a {
+				color: #000000;}
+section.cou {width: 55%;
+				float: left;}
+
+figure {width: 65%;
+				height:57%;
+				float: right;
+				
+				padding: 0.3%;margin: 0% 0.7% 2% 0.7%;
+				border: 0 solid #ffffff;}
+				figcaption {
+				font-size: 80%;
+				text-align: right;}
+
+aside {
+				width: 17%  ;
+				float: left;
+				padding: 0%  0%  0%  2.2%;}
+				aside section a {
+				display: block;
+				padding:  8%;
+				border-bottom: 0 solid #eeeeee;}
+				aside section a:hover {
+				color: #985d6a;
+				background-color: #A9D0F5;}
+			a {
+				color: #000000;
+				text-decoration: none;}
+
+
+h2 {
+				margin: 1.1% 0% 0.7%0% ;
+				padding: 0%;}
+					aside h2 {
+				padding: 3% 0% 1.1% 0%;
+				color: #de6581;}
+
+
+			
+				 footer {
+				clear: both;
+				color: #000000;
+				background-color: #A9D0F5;
+				height: 3%;
+				font-size: 80%;}
+				footer ul {
+				margin: 0%;
+				padding: 1.5% 0% 0% 4%;}
+
+			footer li {
+				display: inline;
+				margin-right: 11%;}
+			footer li a {color: #000000;}
